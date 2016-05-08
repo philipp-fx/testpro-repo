@@ -29,6 +29,7 @@ namespace testpro_repo2Mac
             //Comment 7 Mac 04.05.2016 12:48h
             //Comment 8 WorkPC 04.05.2016 13:11h
             //Comment 9 Mac 04.05.2016 13:13h
+            //Comment 10 MacMini 08.05.2013 21:34h exploring Git Bash command
         }
     }
 }

@@ -1,0 +1,144 @@
+[33mcommit be33b488ac42178b05909aa81cdaa32c5f07171f[m
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 13:18:31 2016 +0200
+
+    Revert "Added Comment Mac Jorge"
+    
+    This reverts commit 061bccf82b3efc7899aef5fa6c8d2fe003fcb094.
+
+[33mcommit 061bccf82b3efc7899aef5fa6c8d2fe003fcb094[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Wed May 4 13:17:53 2016 +0200
+
+    Added Comment Mac Jorge
+
+[33mcommit 381c79ec9d5d9543a0cabf6682931da4f21c1811[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Wed May 4 13:13:34 2016 +0200
+
+    Comment 9 Mac
+
+[33mcommit b0dbab8a87699062fe9f4fb2cc320893da7baf84[m
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 13:12:22 2016 +0200
+
+    Comment 8 WorkPC added
+
+[33mcommit 6d98b22963b182bb2c8516ebfe1622242ae081c2[m
+Merge: 3b98ad7 32acff3
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 13:11:18 2016 +0200
+
+    Conflict 2 commit
+
+[33mcommit 3b98ad7be9b37126fe807fa75f3c3b9355918325[m
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 13:10:44 2016 +0200
+
+    Conflict 2 started
+
+[33mcommit 32acff3e49048ed743c38bba4669dc9e357f519c[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Wed May 4 12:49:18 2016 +0200
+
+    Comment 7 Mac
+
+[33mcommit a6bee6477fcbb7db6620a1bad06cabb1f11ce9e9[m
+Merge: 0758ba1 e860f1e
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 12:47:26 2016 +0200
+
+    Resolved Conflict Commit
+
+[33mcommit e860f1e11692582a9aad6ea8baa8085476bc417a[m
+Merge: 905e838 6b2d668
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Wed May 4 12:45:13 2016 +0200
+
+    Resolved Conflict
+
+[33mcommit 0758ba1ed0986c0f8a357f81bb7d5b3167fb03e9[m
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 12:27:11 2016 +0200
+
+    Revert "Added Comment 6 WorkPC"
+    
+    This reverts commit 19ff81384b8722cadcaf893a21de90fd4d0651fc.
+
+[33mcommit 905e838500e91daad3fe87b6af165be57344fc08[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Wed May 4 12:25:14 2016 +0200
+
+    Added Comment 6 Mac
+
+[33mcommit 6b2d66881a4e7537fb30108767b0420c86bb0a19[m
+Merge: 19ff813 b5c61a7
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 12:23:01 2016 +0200
+
+    Merge branch 'master' of https://github.com/philipp-fx/testpro-repo.git
+
+[33mcommit 19ff81384b8722cadcaf893a21de90fd4d0651fc[m
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 12:22:45 2016 +0200
+
+    Added Comment 6 WorkPC
+
+[33mcommit b5c61a72d697f545d93f985419579bfeffc3548c[m
+Merge: 49ad524 1abbce7
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Wed May 4 11:32:30 2016 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 1abbce7af9ba34b7f7722d8db4031d15c64647f9[m
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Wed May 4 11:29:57 2016 +0200
+
+    Comment 5 WorkPC added
+
+[33mcommit 49ad5244ec656442f912c4a9fcd1ac1bf61fe988[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Sat Apr 30 19:43:25 2016 +0200
+
+    Revert "Revert "Added Comment 4 WorkPC""
+    
+    This reverts commit d9948e50bceafbc2166e9f34f03f73b86e459635.
+
+[33mcommit d9948e50bceafbc2166e9f34f03f73b86e459635[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Sat Apr 30 19:35:40 2016 +0200
+
+    Revert "Added Comment 4 WorkPC"
+    
+    This reverts commit ba9bd3e3b509da338ec5a82baee4de65a7dd3d09.
+
+[33mcommit ba9bd3e3b509da338ec5a82baee4de65a7dd3d09[m
+Author: PhilippWork <philipp @ Work.pc>
+Date:   Sat Apr 30 19:32:54 2016 +0200
+
+    Added Comment 4 WorkPC
+
+[33mcommit 43d683639c69e035e6041075c6f4c4c5db1603b6[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Sat Apr 30 19:18:01 2016 +0200
+
+    Added Comment 3 Mac
+
+[33mcommit b32492d4ea5190665abce7c53216fe23d9049737[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Sat Apr 30 19:14:32 2016 +0200
+
+    Added Comment 2 Mac
+
+[33mcommit 34852fb606e61e24c4807e978488139809b9f9b8[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Sat Apr 30 19:10:54 2016 +0200
+
+    Added "Comment 1 Mac"
+
+[33mcommit 8a7ab4961a60e64e68a9458afc1960741e3e0da7[m
+Author: Philipp Seifert <philipp.seifert@iguanasell.com>
+Date:   Sat Apr 30 18:55:33 2016 +0200
+
+    Added "Hello" MessageBox
